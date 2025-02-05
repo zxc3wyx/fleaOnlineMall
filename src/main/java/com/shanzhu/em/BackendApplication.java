@@ -8,8 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * SpringBoot 启动类
  * 项目启动入口（点击右键 选择 "run BackendApplication" 启动项目）
  *
- * 什么是SpringBoot？（https://www.php.cn/faq/498384.html）
- *
  * @author: Wyx18373256
  * @date: 2022-02-10
  */
